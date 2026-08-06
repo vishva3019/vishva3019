@@ -2,9 +2,15 @@
 
 # 👋 Hi, I'm Vishvanth Annadurai
 
-### 🚀 Aspiring Full Stack Developer | Computer Science Student | Ethical Hacking Enthusiast
+### 🚀 Aspiring Full Stack Developer | Computer Science Engineering Student | Ethical Hacking Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+C+%7C+C%2B%2B+Developer;Future+Software+Engineer;Ethical+Hacking+Learner;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineering+Student;Building+Real-World+Projects;Learning+Something+New+Every+Day!" />
+
+<p>
+  <a href="https://github.com/vishva3019">
+    <img src="https://komarev.com/ghpvc/?username=vishva3019&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 </div>
 
@@ -12,124 +18,59 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student at **Alliance University**
+🎓 **B.Tech Computer Science & Engineering** student at **Alliance University**
 
-💻 Passionate about building real-world web applications
+💻 Passionate about **Full Stack Web Development**
 
-🌐 Exploring Full Stack Development, Backend Systems & Cloud
+🌐 Building real-world applications that solve practical problems
 
-🔐 Learning Ethical Hacking & Cyber Security
+🔐 Learning **Ethical Hacking** & Cyber Security
 
-📱 Learning iOS Development using Swift
+📱 Exploring **iOS Development using Swift**
 
-🚀 Goal: Become a Software Engineer at a top product-based company
+📚 Currently improving my skills in **Java, React, Node.js, Express.js, MongoDB, SQL and DSA**
 
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
----
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
----
-
-### Backend
-
-![Python](https://img.shields.io/badge/Python-Flask-blue?style=for-the-badge)
-
-Node.js (Learning)
-
-Express.js (Learning)
-
----
-
-### Database
-
-MongoDB
-
-PostgreSQL
-
-SQLite
-
----
-
-### Tools
-
-Git
-
-GitHub
-
-VS Code
-
-Fusion 360
-
-Cisco Packet Tracer
-
-Kali Linux
-
-Vercel
+🎯 Goal: Become a Software Engineer building scalable products.
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🎓 Campus Retain
-
-A Lost & Found Portal developed for educational institutions.
+A complete Lost & Found platform for colleges.
 
 ### Features
-
-- Lost & Found Item Management
 - User Authentication
 - Admin Dashboard
-- Claim Verification
-- Approval / Rejection System
+- Item Claim Verification
+- Approve / Reject Claims
 - Email Notifications
 - Responsive UI
 - PostgreSQL Database
-- Deployed on Vercel
+- Vercel Deployment
+
+🔗 https://campusretain.in
 
 ---
 
 ## 🪑 Furniture Rental Website
 
-A Full Stack Furniture Rental Platform
-
-### Features
+A modern furniture rental platform featuring:
 
 - Login & Registration
-- Admin Panel
-- Product Listing
+- Admin Dashboard
+- Product Listings
 - Booking System
-- Modern UI
-- MongoDB Database
+- Responsive Design
+- MongoDB Integration
 
 ---
 
 ## 🤖 Robotic Grabber
 
-Designed a robotic grabber using Fusion 360.
+Designed and modeled a robotic grabber using Fusion 360.
 
-### Technologies
+Technologies:
 
 - Fusion 360
 - Aluminum 6061
@@ -137,48 +78,65 @@ Designed a robotic grabber using Fusion 360.
 
 ---
 
-## 📊 Chit Fund Management Platform
+## 💰 Chit Fund Management Platform
 
-Developing an online chit fund management platform.
-
-### Features
+An online chit fund management system with:
 
 - Member Management
 - Monthly Bidding
 - Winner Selection
-- Excel Automation
 - Reports
 - Cloud Access
+- Excel Automation
 
 ---
 
-## 🌽 Agriculture Projects
+# 💻 Tech Stack
 
-- Plant Disease Identification
-- Crop Monitoring
-- Agricultural Research
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Fusion 360
+- Cisco Packet Tracer
+- Kali Linux
+- Vercel
 
 ---
 
 # 📚 Currently Learning
 
-✔ Java
-
-✔ Full Stack Development
-
-✔ React
-
-✔ Node.js
-
-✔ Express.js
-
-✔ MongoDB
-
-✔ Data Structures & Algorithms
-
-✔ Ethical Hacking
-
-✔ Swift (iOS Development)
+- Java
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Data Structures & Algorithms
+- Ethical Hacking
+- Swift (iOS)
 
 ---
 
@@ -186,50 +144,62 @@ Developing an online chit fund management platform.
 
 ⭐ Solved 50+ HackerRank Problems
 
-⭐ Multiple Coursera Certifications
+⭐ Built Multiple Real-world Projects
 
 ⭐ CCNA Networking Learner
 
-⭐ Built Multiple Real-world Projects
+⭐ Completed Multiple Online Courses
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=vishva3049&theme=tokyonight&show_icons=true)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=vishva3049&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishva3019&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishva3049&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishva3019&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=vishva3019&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🌍 Connect With Me
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vishva3019&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
 
 📧 **Email**
-vishvanth193049@gmail.com
+
+**vishvanth193049@gmail.com**
 
 💼 **LinkedIn**
+
 https://linkedin.com/in/vishvanth
 
-🌐 **Portfolio**
+🌍 **Portfolio**
+
 https://campusretain.in
 
 🐙 **GitHub**
-https://github.com/vishva3049
 
----
-
-# 💡 Quote
-
-> "Code. Learn. Build. Repeat."
+https://github.com/vishva3019
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 💡 "Code • Learn • Build • Repeat"
 
-If you like my work, don't forget to ⭐ my repositories.
+⭐ If you like my work, consider starring my repositories!
 
 </div>
