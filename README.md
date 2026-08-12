@@ -199,6 +199,7 @@ https://github.com/vishva3019
 <div align="center">
 
 ## 💡 "Code • Learn • Build • Repeat"
+"Don't Just Use Technology, Create One!"
 
 ⭐ If you like my work, consider starring my repositories!
 
