@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Vishvanth Annadurai
+# 👋 Hi, I'm VISHVANTH
 
 ### 🚀 Aspiring Full Stack Developer | Computer Science Engineering Student | Ethical Hacking Enthusiast
 
