@@ -67,7 +67,7 @@ A responsive furniture rental website where users can explore furniture products
 
 ### Robotic Grabber
 
-A robotic grabber project designed to demonstrate basic robotic movement and object-handling concepts.
+A robotic grabber project designed to demonstrate robotic movement and object-handling concepts.
 
 **Technologies:** Robotics, Fusion 360, Electronics
 
@@ -122,11 +122,11 @@ A robotic grabber project designed to demonstrate basic robotic movement and obj
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishva3019&show_icons=true&theme=tokyonight&hide_border=true" alt="Vishvanth's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishva3019&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Vishvanth's GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishva3019&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishva3019&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishva3019&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=vishva3019&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -136,11 +136,11 @@ A robotic grabber project designed to demonstrate basic robotic movement and obj
 
 <div align="center">
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/vishvanth" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:vishvanth193049@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
