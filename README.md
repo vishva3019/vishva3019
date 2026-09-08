@@ -178,11 +178,17 @@ Fusion 360 • Electronics • Robotics
 
 ---
 
-## 📈 GitHub Contribution Graph
+---
+
+## 📈 GitHub Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishva3019&bg_color=0d1117&color=2C9AB7&line=2C9AB7&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+[![GitHub Activity](https://img.shields.io/badge/View%20My%20GitHub%20Activity-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishva3019)
+
+<br><br>
+
+[![GitHub Contributions](https://ghchart.rshah.org/2C9AB7/vishva3019)](https://github.com/vishva3019)
 
 </div>
 
