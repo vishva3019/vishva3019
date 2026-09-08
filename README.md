@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Vishvanth%20Annadurai&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Profile Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=VISHVANTH%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Profile Banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C9AB7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Computer+Science+Engineering+Student;Building+Practical+Web+Applications;Exploring+Agentic+AI;Always+Learning+New+Technologies" alt="Typing Animation"/>
 
