@@ -1,144 +1,14 @@
 <div align="center">
 
-# Hi, I'm VISHVANTH 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Vishvanth%20Annadurai&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Profile Banner"/>
 
-### Full Stack Developer | Computer Science Engineering Student
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C9AB7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Computer+Science+Engineering+Student;Building+Practical+Web+Applications;Exploring+Agentic+AI;Always+Learning+New+Technologies" alt="Typing Animation"/>
 
-I build responsive websites, practical web applications, and technology-driven solutions.
+<br>
 
 <a href="https://vishvanth-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-0A66C2?style=for-the-badge&logoColor=white" alt="View My Portfolio"/>
+  <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-0A66C2?style=for-the-badge" alt="Portfolio"/>
 </a>
-
-<a href="https://github.com/vishva3019" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-
----
-
-## About Me
-
-- 🎓 Computer Science Engineering student
-- 💻 Full Stack Developer
-- 🌐 Interested in web development and software engineering
-- 🤖 Exploring Artificial Intelligence and Agentic AI
-- 🔐 Interested in ethical hacking and cybersecurity
-- 🚀 Always learning and building new projects
-
----
-
-## My Portfolio
-
-Visit my personal portfolio to learn more about my skills, projects, certificates, and experience.
-
-🔗 **[View My Portfolio](https://vishvanth-portfolio.vercel.app/)**
-
----
-
-## Featured Projects
-
-### Campus Retain
-
-A web-based platform designed to help students manage campus-related activities and resources.
-
-**Technologies:** HTML, CSS, JavaScript, Python, Flask, SQL
-
-🔗 [Visit Campus Retain](https://campusretain.in)
-
----
-
-### ChitHub
-
-A chit fund management and auction website that helps manage members, payments, auctions, and chit fund activities.
-
-**Technologies:** HTML, CSS, JavaScript, Python, Flask, SQL
-
----
-
-### Furniture Rental Website
-
-A responsive furniture rental website where users can explore furniture products and manage rental-related activities.
-
-**Technologies:** HTML, CSS, JavaScript, Python, Flask, SQL
-
----
-
-### Robotic Grabber
-
-A robotic grabber project designed to demonstrate robotic movement and object-handling concepts.
-
-**Technologies:** Robotics, Fusion 360, Electronics
-
----
-
-## Tech Stack
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools and Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
----
-
-## Certifications
-
-- **Agentic AI Certified Foundations Associate** — Oracle
-- **AI Tools & Claude Workshop** — Be10X
-- **Project Manager Job Simulation** — Siemens / Forage
-- **3rd Place — Team CODEX** — HackerRank
-
----
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=vishva3019&label=Profile%20Views&color=0e75b6&style=flat)
-
-![GitHub Followers](https://img.shields.io/github/followers/vishva3019?label=Followers&style=for-the-badge)
-
-![GitHub Stars](https://img.shields.io/github/stars/vishva3019?label=Total%20Stars&style=for-the-badge)
-
-![GitHub Repositories](https://img.shields.io/badge/Public%20Repositories-View%20on%20GitHub-181717?style=for-the-badge&logo=github)
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/vishvanth" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -148,8 +18,194 @@ A robotic grabber project designed to demonstrate robotic movement and object-ha
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hello! I’m **Vishvanth**, a Computer Science Engineering student and Full Stack Developer passionate about creating useful, responsive, and user-friendly applications.
+
+- 💻 Developing full-stack web applications
+- 🌐 Working with React, Node.js, Flask, and SQL
+- 🤖 Exploring Artificial Intelligence and Agentic AI
+- 🔐 Learning ethical hacking and cybersecurity
+- 🚀 Interested in solving real-world problems through technology
+- 📚 Continuously improving my programming and development skills
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Campus Retain
+
+A web-based platform designed to manage campus-related activities and resources.
+
+**Tech Stack:**  
+HTML • CSS • JavaScript • Python • Flask • SQL
+
+<a href="https://campusretain.in" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Website-Visit-0A66C2?style=for-the-badge" alt="Campus Retain"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💰 ChitHub
+
+A chit fund management and auction website for managing members, payments, and auctions.
+
+**Tech Stack:**  
+HTML • CSS • JavaScript • Python • Flask • SQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🪑 Furniture Rental Website
+
+A responsive website for exploring furniture products and managing rental-related activities.
+
+**Tech Stack:**  
+HTML • CSS • JavaScript • Python • Flask • SQL
+
+</td>
+
+<td width="50%">
+
+### 🤖 Robotic Grabber
+
+A robotics project focused on robotic movement and object-handling concepts.
+
+**Tools:**  
+Fusion 360 • Electronics • Robotics
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### Tools and Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 Certifications and Achievements
+
+- 🥇 **3rd Place — Team CODEX** — HackerRank
+- 🤖 **Agentic AI Certified Foundations Associate** — Oracle
+- 🧠 **AI Tools & Claude Workshop** — Be10X
+- 📋 **Project Manager Job Simulation** — Siemens / Forage
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vishva3019&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/vishva3019?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+
+<img src="https://img.shields.io/github/stars/vishva3019?label=Total%20Stars&style=for-the-badge" alt="GitHub Stars"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+
+</div>
+
+---
+
+## 📈 GitHub Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishva3019&bg_color=0d1117&color=2C9AB7&line=2C9AB7&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://vishvanth-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2C9AB7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vishvanth" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:vishvanth193049@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 <a href="https://github.com/vishva3019" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -158,6 +214,8 @@ A robotic grabber project designed to demonstrate robotic movement and object-ha
 
 <div align="center">
 
-### Thanks for visiting my profile! ⭐
+### ✨ “Code. Learn. Build. Repeat.” ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" alt="Footer Banner"/>
 
 </div>
