@@ -118,15 +118,19 @@ A robotic grabber project designed to demonstrate robotic movement and object-ha
 
 ---
 
+---
+
 ## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishva3019&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Vishvanth's GitHub Stats"/>
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=vishva3019&label=Profile%20Views&color=0e75b6&style=flat)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishva3019&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+![GitHub Followers](https://img.shields.io/github/followers/vishva3019?label=Followers&style=for-the-badge)
 
-<img src="https://streak-stats.demolab.com?user=vishva3019&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+![GitHub Stars](https://img.shields.io/github/stars/vishva3019?label=Total%20Stars&style=for-the-badge)
+
+![GitHub Repositories](https://img.shields.io/badge/Public%20Repositories-View%20on%20GitHub-181717?style=for-the-badge&logo=github)
 
 </div>
 
